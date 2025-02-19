@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da90f78d-f605-48e5-b31a-ec024ed8bb5c" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmptyShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EmptyShoppingCartTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kristina175&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kristina175/MiniProjectt-Selenium.git&quot;,
+    &quot;accountId&quot;: &quot;9a4bb6f6-1ce9-4e1e-8a32-918bec903f92&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sz9xZwiBA0hYZvQM3jIzzLU1ut" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-HotSwap Messages&quot;: &quot;HotSwap failed&quot;,
+    &quot;Notification.DoNotAsk-HotSwap Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.BaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/AppData/Local/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/Downloads/MiniProject-Selenium/src/test/java/testing.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/Downloads/MiniProject-Selenium/src/test/testing.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreateAccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EmptyShoppingCartTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FilterTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FilterTest.testEmptyShoppingCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FilterTest.testPageFilters.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.FilterTest.testWishList.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ShoppingCartTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ShoppingCartTest.testAddProductsToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ShoppingCartTest.testShoppingCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.testSignIn.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.WishListTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishListTest.testWishList.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Downloads/MiniProject-Selenium/src/main/java/com/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Properties&quot;,
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.EmptyShoppingCartTest">
+    <configuration name="EmptyShoppingCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MiniProject-Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmptyShoppingCartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MiniProject-Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FilterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MiniProject-Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingCartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest.testShoppingCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MiniProject-Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingCartTest" />
+      <option name="METHOD_NAME" value="testShoppingCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MiniProject-Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignInTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EmptyShoppingCartTest" />
+        <item itemvalue="TestNG.ShoppingCartTest" />
+        <item itemvalue="TestNG.SignInTest" />
+        <item itemvalue="TestNG.FilterTest" />
+        <item itemvalue="TestNG.ShoppingCartTest.testShoppingCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da90f78d-f605-48e5-b31a-ec024ed8bb5c" name="Changes" comment="" />
+      <created>1739447784355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739447784355</updated>
+      <workItem from="1739447785614" duration="558000" />
+      <workItem from="1739448363644" duration="17000" />
+      <workItem from="1739448411005" duration="159000" />
+      <workItem from="1739448591393" duration="1375000" />
+      <workItem from="1739451007158" duration="564000" />
+      <workItem from="1739451615370" duration="10000" />
+      <workItem from="1739451634924" duration="58000" />
+      <workItem from="1739451709444" duration="47000" />
+      <workItem from="1739451792936" duration="62000" />
+      <workItem from="1739451863207" duration="1214000" />
+      <workItem from="1739453111296" duration="774000" />
+      <workItem from="1739453906406" duration="1921000" />
+      <workItem from="1739455857087" duration="1266000" />
+      <workItem from="1739457333277" duration="16661000" />
+      <workItem from="1739550107409" duration="18530000" />
+      <workItem from="1739613977004" duration="362000" />
+      <workItem from="1739874702597" duration="2414000" />
+      <workItem from="1739877490172" duration="8109000" />
+      <workItem from="1739885662427" duration="4772000" />
+      <workItem from="1739890552127" duration="481000" />
+      <workItem from="1739899283451" duration="25000" />
+      <workItem from="1739899363615" duration="8000" />
+      <workItem from="1739899660183" duration="243000" />
+      <workItem from="1739900158389" duration="6970000" />
+      <workItem from="1739963226055" duration="13596000" />
+      <workItem from="1739978168055" duration="637000" />
+      <workItem from="1739978825752" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1739976861773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739976861773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/HomePage.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiniProject_Selenium$WishListTest.ic" NAME="WishListTest Coverage Results" MODIFIED="1739878386911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
