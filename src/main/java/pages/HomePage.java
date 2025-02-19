@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.List;
 
 public class HomePage {
-    private WebDriver driver;
+    private static WebDriver driver;
     private By womenMenu = By.xpath("//span[text()='Women']");
     private By topsOption = By.xpath("//a[text()='Tops']");
     private By jacketsOption = By.xpath("//a[text()='Jackets']");
@@ -25,6 +25,7 @@ public class HomePage {
     public HomePage(WebDriver driver) {
         this.driver = driver;
     }
+
 
     public void hoverOverWomenMenu() {
         WebDriverWait wait = new WebDriverWait(driver, 10);
@@ -73,6 +74,12 @@ public class HomePage {
 
     public void clickWishList() {
         driver.findElement(wishListLink).click();
+    }
+    public static void quit() {
+        if (driver != null) {
+            driver.quit();
+            driver = null;
+        }
     }
 
 }

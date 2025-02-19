@@ -2,6 +2,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.HomePage;
@@ -57,5 +58,9 @@ public class EmptyShoppingCartTest extends BaseTest {
         // Verifiko që shporta është bosh
         Assert.assertTrue(shoppingCartPage.isCartEmptyMessageDisplayed(),
                 "Mesazhi 'You have no items in your shopping cart.' nuk u shfaq!");
+    }
+    @AfterTest
+   public void quit() {
+        HomePage.quit();
     }
 }
